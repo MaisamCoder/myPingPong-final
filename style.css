@@ -1,0 +1,23 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+    /* When you want 2 elements in one line, use inline. */
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+canvas{
+    box-shadow: 5px, 5px, 18px, red;
+    line-height: 3;
+}
+
+#canves{
+
+}
